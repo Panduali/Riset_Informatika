@@ -4,7 +4,7 @@
 <p>kelas : Riset Informatika D<p>
 
 # Topik : Interaksi Manusia-Komputer (Human-Computer Interaction - HCI) & Kecerdasan Buatan (Artificial Intelligence - AI)
-### Riset : Kemudahan pejalan kaki maupun pengendara dalam navigasi menggunakan smart glasses(smass) atau kacamata pintar.
+### Riset : Studi Navigasi dan Kemudahan Pejalan Kaki serta Pengendara dengan Penggunaan Smart Glasses dalam Lingkungan Urban
 
 # Research Question
 <li>Bagaimana penggunaan smart glasses dapat meningkatkan pengalaman dan efisiensi pejalan kaki dalam navigasi di perkotaan?</li>
